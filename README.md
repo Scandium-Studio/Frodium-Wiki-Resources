@@ -36,6 +36,18 @@
        alt="PageOutdated"/>
 </div>
 
+### Excellent Page
+```
+<div align="center">
+  <img src="https://github.com/Scandium-Studio/Frodium-Wiki-Resources/blob/main/WikiPage-Exemplary.png?raw=true" 
+       alt="PageExemplary" width="720px"/>
+</div>
+```
+<div align="center">
+  <img src="https://github.com/Scandium-Studio/Frodium-Wiki-Resources/blob/main/WikiPage-Exemplary.png?raw=true" 
+       alt="PageExemplary" width="720px"/>
+</div>
+
 ---
 ## 预览：
 以下标识只会在中文 Wiki 中出现，英文 Wiki 请使用上方资源
@@ -73,4 +85,16 @@
 <div align="center">
   <img src="https://github.com/Scandium-Studio/Frodium-Wiki-Resources/blob/main/WikiPage-OutdatedCN.png?raw=true" 
        alt="PageOutdated-Chinese"/>
+</div>
+
+### 高质量页面
+```
+<div align="center">
+  <img src="https://github.com/Scandium-Studio/Frodium-Wiki-Resources/blob/main/WikiPage-ExemplaryCN.png?raw=true" 
+       alt="PageExemplary-Chinese" width="720px"/>
+</div>
+```
+<div align="center">
+  <img src="https://github.com/Scandium-Studio/Frodium-Wiki-Resources/blob/main/WikiPage-ExemplaryCN.png?raw=true" 
+       alt="PageExemplary-Chinese" width="720px"/>
 </div>
